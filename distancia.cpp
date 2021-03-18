@@ -14,5 +14,5 @@ int main ()
     float resultado;
     resultado = sqrt(pow((xb - xa),2) + pow((yb - ya),2));
     
-    printf("%f", resultado);
+    printf("%f \n", resultado);
 }
